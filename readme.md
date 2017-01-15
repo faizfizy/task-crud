@@ -15,27 +15,27 @@ Task CRUD allow user to:
 
 Screenshots
 ------
-Homepage
-[homepage]
+### Homepage
+![Homepage][homepage]
 
-Creating New Task
-[create]
+### Creating New Task
+![Creating New Task][create]
 
-Task Created
-[created]
+### Task Created
+![Task Created][created]
 
-Editing Task
-[edit]
+### Editing Task
+![Editing Task][edit]
 
-Task Edited
-[edited]
+### Task Edited
+![Task Edited][edited]
 
-Deleting Task
-[deleted]
+### Deleting Task
+![Deleting Task][deleted]
 
-[homepage] : screenshots/homepage.png
-[create] : screenshots/create.png
-[created] : screenshots/created.png
-[edit] : screenshots/edit.png
-[edited] : screenshots/edited.png
-[deleted] : screenshots/deleted.png
+[homepage]: screenshots/homepage.png
+[create]: screenshots/create.png
+[created]: screenshots/created.png
+[edit]: screenshots/edit.png
+[edited]: screenshots/edited.png
+[deleted]: screenshots/deleted.png
